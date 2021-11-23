@@ -1,4 +1,4 @@
-<h1>Projetos-Finn Vai na Web</h1>
+<h1>Projeto-Finn Vai na Web</h1>
 
 <p>Divirta-se entrando no nosso site, está na hora de se aventurar no nosso site</p>
 
